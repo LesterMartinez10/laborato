@@ -1,0 +1,11 @@
+C:\Users\leste\OneDrive\Escritorio\labo\labo\bin\Debug\netcoreapp3.1\labo.exe
+C:\Users\leste\OneDrive\Escritorio\labo\labo\bin\Debug\netcoreapp3.1\labo.deps.json
+C:\Users\leste\OneDrive\Escritorio\labo\labo\bin\Debug\netcoreapp3.1\labo.runtimeconfig.json
+C:\Users\leste\OneDrive\Escritorio\labo\labo\bin\Debug\netcoreapp3.1\labo.runtimeconfig.dev.json
+C:\Users\leste\OneDrive\Escritorio\labo\labo\bin\Debug\netcoreapp3.1\labo.dll
+C:\Users\leste\OneDrive\Escritorio\labo\labo\bin\Debug\netcoreapp3.1\labo.pdb
+C:\Users\leste\OneDrive\Escritorio\labo\labo\obj\Debug\netcoreapp3.1\labo.csprojAssemblyReference.cache
+C:\Users\leste\OneDrive\Escritorio\labo\labo\obj\Debug\netcoreapp3.1\labo.AssemblyInfoInputs.cache
+C:\Users\leste\OneDrive\Escritorio\labo\labo\obj\Debug\netcoreapp3.1\labo.AssemblyInfo.cs
+C:\Users\leste\OneDrive\Escritorio\labo\labo\obj\Debug\netcoreapp3.1\labo.dll
+C:\Users\leste\OneDrive\Escritorio\labo\labo\obj\Debug\netcoreapp3.1\labo.pdb

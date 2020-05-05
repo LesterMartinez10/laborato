@@ -1,0 +1,9 @@
+Correlativo: lester orlando Martinez Hernandez
+cliente: 456
+N.I.T: 45781223
+fecha: 10/05/2003
+Producto:huevos
+Precio de unidad:540
+Total:540
+
+

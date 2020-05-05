@@ -1,0 +1,7 @@
+nombre del producto:pan
+Cantidad:4
+Precio:50
+
+
+
+
